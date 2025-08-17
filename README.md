@@ -42,10 +42,26 @@
 
 ## 🎯 Learning Focus
 
-- 🚧 Building a DevOps pipelines *(Terraform + AWS + GitHub Actions)*
-- 📦 Running containers & learning Helm charts
-- 🔐 Studying IAM roles and policies
-- ⚙️ Automating infrastructure with IaC
+🚧 Building End-to-End DevOps Pipelines
+Using Terraform + AWS + GitHub Actions to automate infrastructure and CI/CD workflows
+
+☸️ Kubernetes & Helm
+Deploying and managing containerized apps at scale; learning Helm Charts for package management
+
+🔐 AWS IAM & Security Best Practices
+Mastering access control, policies, and securing cloud environments
+
+📈 Monitoring & Observability with Datadog
+Creating dashboards, setting up alerts, and analyzing system performance
+
+🧪 CI/CD Pipeline Optimization
+Implementing advanced GitHub Actions workflows with automated testing and linting
+
+🎓 Certifications in Progress
+
+AWS Certified Solutions Architect – Associate
+
+Certified Kubernetes Administrator (CKA)
 
 
 ## 🌍 Let's Connect
