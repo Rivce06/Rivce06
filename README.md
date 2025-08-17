@@ -52,13 +52,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andres-rivera0608">
-    <img src="https://img.shields.io/badge/LinkedIn-Andres_Rivera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Andres_Rivera-253342?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rivce06">
-    <img src="https://img.shields.io/badge/GitHub-Rivce06-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Rivce06-253342?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:gvenegas7978@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gvenegas7978@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-gvenegas7978@gmail.com-253342?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
