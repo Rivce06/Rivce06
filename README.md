@@ -64,7 +64,7 @@ Implementing advanced GitHub Actions workflows with automated testing and lintin
 * Certified Kubernetes Administrator (CKA)
 
 
-## 🌍 Let's Connect
+## 🌍 How to reach me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andres-rivera0608">
