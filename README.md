@@ -1,104 +1,72 @@
-#  👋 Hi there! I'm Andres
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-I'm an **Junior DevOps Engineer** with 2+ years of experience in Technical Support and a strong passion for automation, cloud infrastructure, and modern software delivery.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%7C+IaC+%7C+Automation">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%7C+IaC+%7C+Automation">
+  <img alt="typing animation" 
+       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%7C+IaC+%7C+Automation">
+</picture>
+</div>
 
-``` _      _ _         __        __         _     _ 
- | | | | ___| | | ___     \ \      / /__  _ __| | __| |
- | |_| |/ _ \ | |/ _ \     \ \ /\ / / _ \| '__| |/ _` |
- |  _  |  __/ | | (_) |     \ V  V / (_) | |  | | (_| |
- |_| |_|\___|_|_|\___( )     \_/\_/ \___/|_|  |_|\__,_|
-                     |/           Junior DevOps 🛠️      
 
-```
+## 👋 Hi, I'm **Andres Rivera**
 
-` #!/usr/bin/env python3`
+🚀 A passionate **Junior DevOps Engineer** with over **2 years of experience** in technical support.  
+🔧 Obsessed with **automation**, **cloud infrastructure**, and improving software delivery through DevOps practices.
 
-`import time`
+---
 
-```
-def typewriter(text, delay=0.02):
-    for char in text:
-        print(char, end='', flush=True)
-        time.sleep(delay)
-    print()
-```
-```
-def separator():
-    print("\n" + "=" * 50 + "\n")
+## 🧰 Tech Stack
 
-def intro():
-    separator()
-    typewriter(3"👋 Hi there! I'm Andres")
-    typewriter("🚀 Junior DevOps Engineer with 2+ years in Technical Support")
-    typewriter("🔧 Passionate about automation, cloud infrastructure & modern DevOps workflows")
-    separator()
-```
-```
-def install_command():
-    typewriter("💻 Installing profile...")
-    typewriter("➜  $ sudo apt install andres-devops", 0.04)
-    separator()
-```
-```
-def tech_stack():
-    typewriter("🛠️ Tech Stack:")
-    stack = {
-        "☁️ Cloud": "AWS (EC2, IAM, S3)",
-        "📦 IaC": "Terraform",
-        "🐳 Containers": "Docker",
-        "☸️ Orchestration": "Kubernetes",
-        "🔁 CI/CD": "GitHub Actions",
-        "💻 Scripting": "Bash, Python"
-    }
-    for k, v in stack.items():
-        typewriter(f"  {k}: {v}")
-    separator()
-```
-```
-def learning_focus():
-    typewriter("🎯 Currently focused on:")
-    focus = [
-        "🚧 Building a mini DevOps pipeline (Terraform + AWS + GitHub Actions)",
-        "📦 Running containers and learning Helm charts",
-        "🔐 Studying IAM roles and policies",
-        "⚙️ Automating infrastructure with IaC"
-    ]
-    for item in focus:
-        typewriter(f"  - {item}")
-    separator()
-```
-```
-def courses():
-    typewriter("📚 Courses & Learning:")
-    courses = {
-        "AWS Cloud Practitioner": False,
-        "Docker & Kubernetes (Udemy)": True,
-        "Terraform Basics (Udemy)": True,
-        "Git & GitHub (freeCodeCamp)": True
-    }
-    for name, completed in courses.items():
-        status = "[x]" if completed else "[ ]"
-        typewriter(f"  {status} {name}")
-    separator()
-```
-```
-def connect():
-    typewriter("🌍 Let's connect:")
-    links = {
-        "🔗 LinkedIn": "https://www.linkedin.com/in/andres-rivera0608",
-        "🐙 GitHub": "https://github.com/Rivce06",
-        "📧 Email": "mailto:gvenegas7978@gmail.com"
-    }
-    for label, url in links.items():
-        typewriter(f"  {label}: {url}")
-    separator()
-```
-```
-if __name__ == "__main__":
-    intro()
-    install_command()
-    tech_stack()
-    learning_focus()
-    courses()
-    connect()
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,aws,bash,kubernetes,terraform,git,docker" height="50" />
+</div>
+
+---
+<div align="center">
+ 
+| Category           | Tools & Platforms                          |
+|--------------------|---------------------------------------------|
+| ☁️ Cloud           | AWS                          |
+| 📦 IaC             | Terraform                                   |
+| 🐳 Containers      | Docker                                      |
+| ☸️ Orchestration   | Kubernetes                                  |
+| 🔁 CI/CD           | GitHub Actions                              |
+| 💻 Scripting       | Bash, Python                                |
+
+</div>
+
+
+## 🎯 Learning Focus
+
+- 🚧 Building a DevOps pipelines *(Terraform + AWS + GitHub Actions)*
+- 📦 Running containers & learning Helm charts
+- 🔐 Studying IAM roles and policies
+- ⚙️ Automating infrastructure with IaC
+
+
+## 🌍 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/andres-rivera0608">
+    <img src="https://img.shields.io/badge/LinkedIn-Andres_Rivera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rivce06">
+    <img src="https://img.shields.io/badge/GitHub-Rivce06-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:gvenegas7978@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gvenegas7978@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+> 🧠 _“Infrastructure as Code is like documenting your magic—make it repeatable.”_
+
+
+---
+
+
