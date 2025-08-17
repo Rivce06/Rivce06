@@ -12,7 +12,7 @@
 </div>
 
 
-## 👋 Hi, I'm **Andres Rivera**
+## 👋 Hi, I'm **Andres**
 
 🚀 A passionate **Junior DevOps Engineer** with over **2 years of experience** in technical support.  
 🔧 Obsessed with **automation**, **cloud infrastructure**, and improving software delivery through DevOps practices.
