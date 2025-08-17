@@ -12,12 +12,18 @@
 </div>
 
 
-## 👋 Hi, I'm **Andres**
+<img src= https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif  />
 
-🚀 A passionate **Junior DevOps Engineer** with over **2 years of experience** in technical support.  
-🔧 Obsessed with **automation**, **cloud infrastructure**, and improving software delivery through DevOps practices.
 
----
+
+## 👋 Hey there! I'm Andres
+
+ A Junior DevOps Engineer with a background in technical support and a drive for automation.
+
+I'm on a mission to build scalable infrastructure in the cloud and automate everything I can using tools like Terraform, AWS, and GitHub Actions.
+
+
+
 
 ## 🧰 Tech Stack
 
@@ -80,7 +86,7 @@ Implementing advanced GitHub Actions workflows with automated testing and lintin
 
 ---
 
-> 🧠 _“Infrastructure as Code is like documenting your magic—make it repeatable.”_
+> 🔭 _“The future belongs to those who learn, adapt, and build.”_ 
 
 
 ---
