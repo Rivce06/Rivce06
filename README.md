@@ -3,11 +3,11 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%7C+IaC+%7C+Automation">
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+Engineer+%7C+IaC+%7C+Automation">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%7C+IaC+%7C+Automation">
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+Engineer+%7C+IaC+%7C+Automation">
   <img alt="typing animation" 
-       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+%7C+IaC+%7C+Automation">
+       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;Cloud+Engineer+%7C+IaC+%7C+Automation">
 </picture>
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 👋 Hey there! I'm Andres
 
- A Junior DevOps Engineer with a background in technical support and a drive for automation.
+ A DevOps & Cloud Engineer with a background in technical support and a drive for automation.
 
 I'm on a mission to build scalable infrastructure in the cloud and automate everything I can using tools like Terraform, AWS, and GitHub Actions.
 
